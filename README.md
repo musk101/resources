@@ -174,15 +174,6 @@
 
 **[⬆ Back to Index](#index-books)**
 
-## SoftwareEngineering :bulb:
-
-| Domain   | Link                           |
-| -------- | ------------------------------ |
-| SoftwareEngineering | [Link](./SoftwareEngineering/SoftwareEngineering.md) |
-
-**[⬆ Back to Index](#index-books)**
-
-
 ## Version Control :arrows_counterclockwise:
 
 | Domain | Link                               |
